@@ -2,14 +2,14 @@
 #include <string.h>
 /**
  * puts - to print our string
- *
- * @str: string to be printed
- *
+ *@str1: string to be printed
+ (*
+ *The puts function prints out the string given)?
  *Return: string or 0
  */
 int main(void)
 {
-	char str1[] = "\"programming is like building a multilingual puzzle\n";
+	char str1[] = "\"Programming is like building a multilingual puzzle\n";
 
 	puts(str1);
 
