@@ -7,9 +7,9 @@
  *
  *Return: string or 0
  */
-int main()
+int main(void)
 {
-	char str1[] = "programming is like building a multilingual puzzle\n";
+	char str1[] = "\"programming is like building a multilingual puzzle\n";
 
 	puts(str1);
 
