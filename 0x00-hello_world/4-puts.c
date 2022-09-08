@@ -1,6 +1,17 @@
 #include <stdio.h>
 #include <string.h>
 /**
-int main(main)
+ * puts - to print our string
+ *
+ * @str: string to be printed
+ *
+ *Return: string or 0
+ */
+int main()
 {
-	printf("programming is like building a multilingual puzzle")
+	char str1[] = "programming is like building a multilingual puzzle\n";
+
+	puts(str1);
+
+	return (0);
+}
