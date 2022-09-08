@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * puts - to print our string
- *@str1: string to be printed
- (*
- *The puts function prints out the string given)?
- *Return: string or 0
+ * main - Entry point
+ *
+ * Description: 'the program print string
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
