@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * Main - Entry point
+ * main - Entry point
  *
- * Description:out puts lowercase and then uppercase
+ * Description: out puts lowercase and then uppercase
  * using the putchar function
  * Return: Always 0 (Success/correct)
  */
