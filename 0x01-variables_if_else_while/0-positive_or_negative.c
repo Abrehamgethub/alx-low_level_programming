@@ -1,8 +1,3 @@
-/*
- * File: Zero-positive_or_negative.c
- *
- */
-
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
