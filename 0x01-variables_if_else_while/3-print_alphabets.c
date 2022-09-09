@@ -3,7 +3,7 @@
  * main - Entry point
  *
  * Description: prints three alphabetic
- * using the for loop
+ * using the the function putchar
  * Return: Always 0 (Success)
  */
 int main(void)
