@@ -2,9 +2,9 @@
 /**
  * main - Entry point
  *
- * Description: out puts lowercase and then uppercase
- * using the putchar function
- * Return: Always 0 (Success/correct)
+ * Description: prints three alphabetic
+ * using the for loop
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
