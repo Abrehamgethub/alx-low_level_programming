@@ -11,7 +11,7 @@
  * main - Entry point
  *
  * Description: Prints a random number
- * Return: Always 0 (Success)
+ * Return: Always zero
  */
 int main(void)
 
