@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-
- /**
- * main - Entry point
+/**
+ * main - print if the number is positive,zer or negative
  *
- * Description: Prints a random number
- * Return: Always zero
+ * Description: Using the main function
+ * this program prints Programming is positive,zero or negative
+ * Return: 0
  */
 int main(void)
 

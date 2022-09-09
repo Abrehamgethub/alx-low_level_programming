@@ -1,20 +1,29 @@
 #include<stdio.h>
 /**
- * Main - Entry point
+ * main - Entry point
+ *
+ * Description: the program outpus lowercase letters
+ * using putchar function
  * Return: Always 0 (Success/Correct)
  */
 int main(void)
 {
 	char alphabet;
-	for(alphabet='a';alphabet<='z';alphabet++)
+
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
-		if(alphabet == 'q')
+		if (alphabet == 'q')
 		{
 			continue;
-			else if(alphabet == 'e')
-				continue;
-			putchar('\n');
-			return (0);
 		}
+		else if (alphabet == 'e')
+		{
+			continue;
+		}
+		putchar(alphabet);
 	}
+
+	putchar('\n');
+
+	return (0);
 }
