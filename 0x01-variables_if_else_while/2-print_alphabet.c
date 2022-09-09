@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * Main - Entry point
+ * main - Entry point
  *
- * Description: the program outputs lowercase letter
- * using the main function
- * Return: always zero (Success/correct)
+ * Description: prints out alpahbet in lowercase
+ * using the funchion putchar
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
