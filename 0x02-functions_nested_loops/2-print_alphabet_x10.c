@@ -6,7 +6,7 @@
  * using a function _putchar
  * Return: Aleays 0.
  */
-void print_alpahbet_x10(void)
+void print_alphabet_x10(void)
 {
 	int  i;
 	int ch;
