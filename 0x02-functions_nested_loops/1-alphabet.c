@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main - Entry point
+ * print_alphabet - lower prints
  *
  * Description: prints lower case alphabets
  * using a function puthar
