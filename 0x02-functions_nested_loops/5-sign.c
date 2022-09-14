@@ -1,4 +1,4 @@
-#include "man.h"
+#include "main.h"
 /**
  * print_sign - a function checks letter sign
  * @n: is the integer whic checks the characters
