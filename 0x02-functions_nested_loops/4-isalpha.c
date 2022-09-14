@@ -4,9 +4,8 @@
  * _isalpha - function to check if letter, lower or uppercase
  * @c: is a the key to
  *
- * Return : 1 if success
+ * Return : 0 if success
  */
-
 int _isalpha(int c)
 {
 	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
