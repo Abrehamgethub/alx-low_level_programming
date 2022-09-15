@@ -2,7 +2,7 @@
 /**
  *_isalpha - function to check is letter or
  * @c: is a the key to
- * Return : zero
+ * Return: zero
  */
 int _isalpha(int c)
 {
