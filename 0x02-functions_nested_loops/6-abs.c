@@ -2,7 +2,7 @@
 /**
  * _abs - function to compute absolute value
  * @c: with the integer
- * :Return: zero
+ * Return: zero
  */
 int _abs(int c)
 {
