@@ -18,6 +18,6 @@ int main(void)
 		if ((n1 % 2) == 0)
 			sum += n1;
 	}
-	printf("%ld", sum);
+	printf("%ld\n", sum);
 	return (0);
 }
