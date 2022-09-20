@@ -12,7 +12,7 @@ int main(void)
 	for (num = 1; num < 101; num++)
 	{
 		if (num % 15 == 0)
-			printf("Fizzbuzz");
+			printf("FizzBuzz");
 		else if (num % 3 == 0)
 			printf("Fizz");
 		else if (num % 5 == 0)
